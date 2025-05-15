@@ -1,2 +1,3 @@
 # devops-uts
-Haloo!! aku sedang mengerjakan UTS
+- Email: input email
+- Password: input password
